@@ -9,4 +9,6 @@
 2nd commit:
 -ANOVA and t-tests
 -OOP with python specificlly for a data science example
--regression (logistic and linear) and sentiment analysis for text
+-regression (logistic and linear) and sentiment analysis for text 
+
+
